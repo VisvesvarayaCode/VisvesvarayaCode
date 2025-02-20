@@ -43,30 +43,7 @@ Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository in
 ### 🗄️ **Database:**  
 🔹 MySQL, Oracle SQL  
 
----
-
-## 📊 Project Meter  
-
-📈 **Tech Coverage:**  
-🟢 **80%** Java Backend (Hibernate, Spring, JDBC)  
-🟢 **70%** Database (SQL Optimization, Stored Procedures)  
-🟢 **60%** Frontend (ReactJS, JSP)  
-🟢 **50%** REST APIs (Spring Boot, JSON, XML)  
-
-🔄 Continuous improvements in **performance, security, and scalability**!  
-
----
-
-## 🎥 Developer Animation  
-
-💡 **Imagine this:**  
-
-⚙️ **Java engine** running seamlessly  
-🔗 **Hibernate & JDBC** bridging the gap to the database  
-🌐 **Spring Boot APIs** connecting frontend & backend  
-🎨 **ReactJS UI** rendering a dynamic experience  
-
-It’s **not just code—it’s a machine in motion!** 🚀  
+ 
 
 ---
 
@@ -80,19 +57,19 @@ It’s **not just code—it’s a machine in motion!** 🚀
 
 ---
 
-## 🤝 Contributing  
+## 📈 GitHub Stats
 
-🔹 Fork this repository  
-🔹 Submit pull requests  
-🔹 Report issues & suggest enhancements  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tambenitin2002&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📬 Let's Connect!  
+## 📊 Top Languages
 
-GitHub: [Your GitHub Profile]  
-LinkedIn: [Your LinkedIn Profile]  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambenitin2002&layout=compact&theme=tokyonight)
 
 ---
 
-🎯 **"Code, innovate, and engineer the future—just as Visvesvaraya built India's legacy!"** 🚀  
+---
+
+![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
