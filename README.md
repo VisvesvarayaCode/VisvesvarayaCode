@@ -16,7 +16,7 @@ Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository in
 
 ### ⚙️ **Backend**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB43F?style=for-the-badge&logo=spring)  
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate)  
 ![JDBC](https://img.shields.io/badge/-JDBC-003366?style=for-the-badge&logo=oracle)  
 ![Servlet](https://img.shields.io/badge/-Servlet-FF7800?style=for-the-badge)  
