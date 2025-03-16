@@ -5,7 +5,7 @@
 
 Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
 
-
+![cover](https://github.com/VisvesvarayaCode/VisvesvarayaCode/blob/main/cover.png)
 ---
 
 ### 🖥️ **Frontend**  
