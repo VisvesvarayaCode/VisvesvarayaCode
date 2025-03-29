@@ -29,15 +29,10 @@
             <img class="badge" src="https://img.shields.io/badge/-Servlet-FF7800?style=for-the-badge" alt="Servlet">
             <img class="badge" src="https://img.shields.io/badge/-JSP-007396?style=for-the-badge" alt="JSP">
         </div>
-
-        <div class="section">
             <h2>🗄️ Database</h2>
             <img class="badge" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
             <img class="badge" src="https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle" alt="Oracle SQL">
-        </div>
-
-
-            <h2>🔥 Features</h2>
+        <h2>Feature</h2>
             <ul>
                 <li>✅ <strong>Enterprise-Level Java Web Apps</strong></li>
                 <li>✅ <strong>Efficient ORM with Hibernate</strong></li>
@@ -45,21 +40,15 @@
                 <li>✅ <strong>Dynamic UI with ReactJS</strong></li>
                 <li>✅ <strong>Optimized SQL Queries for High Performance</strong></li>
             </ul>
-       
-
         <div class="section">
             <h2>📈 GitHub Stats</h2>
             <img src="https://github-readme-stats.vercel.app/api?username=VisvesvarayaCode&show_icons=true&theme=tokyonight" alt="GitHub Stats">
         </div>
-
         <div class="section">
             <h2>📊 Top Languages</h2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisvesvarayaCode&layout=compact&theme=tokyonight" alt="Top Languages">
         </div>
-
-        <div class="section">
             <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF">
-        </div>
     </div>
 </body>
 </html>
