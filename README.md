@@ -20,9 +20,6 @@
             <img class="badge" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS">
             <img class="badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
             <img class="badge" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
-           
-   
-
         <div class="section">
             <h2>⚙️ Backend</h2>
             <img class="badge" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java">
