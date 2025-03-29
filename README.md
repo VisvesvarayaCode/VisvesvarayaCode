@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VisvesvarayaCode</title>
+  
 
 </head>
 <body>
@@ -16,13 +16,10 @@
         <p>Welcome to <strong>VisvesvarayaCode</strong>, a <strong>Full-Stack Java Development</strong> repository inspired by the legendary Indian engineer <strong>Sir M. Visvesvaraya</strong>. This repo is a hub for <strong>enterprise-grade backend solutions, dynamic web applications, and database-driven projects</strong> using modern Java technologies.</p>
         <img src="https://github.com/VisvesvarayaCode/VisvesvarayaCode/blob/main/cover.png" alt="Cover Image">
         
-        <div class="section">
+       
             <h2>🖥️ Frontend</h2>
-            <img class="badge" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-            <img class="badge" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS">
-            <img class="badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-            <img class="badge" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
-        </div>
+           
+   
 
         <div class="section">
             <h2>⚙️ Backend</h2>
