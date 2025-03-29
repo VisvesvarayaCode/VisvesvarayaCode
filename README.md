@@ -15,9 +15,7 @@
         </blockquote>
         <p>Welcome to <strong>VisvesvarayaCode</strong>, a <strong>Full-Stack Java Development</strong> repository inspired by the legendary Indian engineer <strong>Sir M. Visvesvaraya</strong>. This repo is a hub for <strong>enterprise-grade backend solutions, dynamic web applications, and database-driven projects</strong> using modern Java technologies.</p>
         <img src="https://github.com/VisvesvarayaCode/VisvesvarayaCode/blob/main/cover.png" alt="Cover Image">
-        
-       
-            <h2>🖥️ Frontend</h2>
+         <h2>🖥️ Frontend</h2>
            
    
 
