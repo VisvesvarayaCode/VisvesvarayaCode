@@ -70,7 +70,7 @@
             <img class="badge" src="https://img.shields.io/badge/-OracleSQL-F80000?style=for-the-badge&logo=oracle" alt="Oracle SQL">
         </div>
 
-        <div class="section">
+
             <h2>🔥 Features</h2>
             <ul>
                 <li>✅ <strong>Enterprise-Level Java Web Apps</strong></li>
@@ -79,7 +79,7 @@
                 <li>✅ <strong>Dynamic UI with ReactJS</strong></li>
                 <li>✅ <strong>Optimized SQL Queries for High Performance</strong></li>
             </ul>
-        </div>
+       
 
         <div class="section">
             <h2>📈 GitHub Stats</h2>
